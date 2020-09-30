@@ -1,7 +1,7 @@
 # Site settings
-title_left    : "Giang Tong"
+title_left    : "Tống Tùng Giang"
 title_right   : "" # default: ""
-description   : "A hungry game programmer."
+description   : "Làm game để sống."
 keywords      : "game, programming, gameplay"
 url           : https://tongtunggiang.com # site url
 baseurl       : "/vi" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Giang Tong"
+  name     : "Tống Tùng Giang"
 
 plugins:
   - jekyll-sitemap
