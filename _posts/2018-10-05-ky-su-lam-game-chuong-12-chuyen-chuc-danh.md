@@ -5,19 +5,19 @@ date: "2018-10-05"
 
 Hôm trước mình rảnh háng, ngồi lướt facebook. Kéo kéo một lúc thì một bài viết hiện lên giữa rừng mông với vếu, mang tiêu đề rất kêu "Programmer, Software Engineer, Software Developer và Coder giống nhau và khác nhau như thế nào". Trong đầu mình thầm nghĩ, "đm khác đéo gì nhau đâu", nhưng tò mò nên mình vẫn mò vào ngồi đọc. Đọc xong mới thấy bài viết nhảm shit vãi lúa, toàn thông tin sai lệch. Thành ra hôm nay mình biên một bài - cũng nhảm shit không kém - để phản biện lại đám thông tin củ cải đó, tránh anh em mới vào ngành hiểu nhầm.
 
-(Anh em nếu thấy bài viết hôm nay có hơi đanh đá thì thông cảm nhé, dạo này công việc hơi căng nên mình khó ở như con gái đến kỳ vậy ![](assets/images/shame-e1507297959839.png))
+(Anh em nếu thấy bài viết hôm nay có hơi đanh đá thì thông cảm nhé, dạo này công việc hơi căng nên mình khó ở như con gái đến kỳ vậy ![](https://tongtunggiang.com/vi/assets/images/shame-e1507297959839.png))
 
-![](assets/images/19uk6a.jpg)
+![](https://tongtunggiang.com/vi/assets/images/19uk6a.jpg)
 
 Mình sẽ không share link bài viết đâu, ngu gì đi tăng traffic cho mấy cái trang độc hại đó - tại sao mình gọi mấy trang này bằng từ "độc hại" thì mình sẽ nói đến trong một bài viết khác. Nhưng nếu anh em muốn đọc các bài viết gốc, anh em hoàn toàn có thể google, vì mình trích dẫn y nguyên những gì các bài viết đó nói.
 
-Trích một đoạn trong một bài của trang T trước ![](assets/images/shame-e1507297959839.png)
+Trích một đoạn trong một bài của trang T trước ![](https://tongtunggiang.com/vi/assets/images/shame-e1507297959839.png)
 
 > Tiếp theo chúng ta hãy nói về từ **CODER!**_Coder_ là ai? Từ _Coder_ sẽ cao cấp hơn từ _Programmer_. _Coder_ không nhất thiết phải ngồi viết chương trình hoặc hệ thống phần mềm kiến ​​trúc cả ngày. _Coder_ còn có thể viết mã. Đó là bởi vì mã chỉ là một số đánh dấu rất không cụ thể, thậm chí không phải là một ngôn ngữ lập trình phổ biến. Ngay cả Excel cũng có các hàm (function), và đó chính là mã đó! Haha!
 > 
 > Nhân tiện, HTML là mã. Hãy nghĩ về HTML. HTML là một ngôn ngữ đánh dấu rất đơn giản. Mã HTML có những dấu ngoặc nhọn, các thẻ HTML, v.v Có những công việc như _Coder_ HTML hay _Coder_ XML. Vì vậy, một _Coder_ HTML chỉ đơn thuần lấy các mẫu thiết kế và đặt nó trong HTML. Họ thay đổi text và các tag. Họ không phải nghĩ về các tích hợp, hiệu suất, cụm, đám mây, các rủi ro,… Họ chỉ tạo ra các dòng code và danh sách tĩnh. Vì vậy, theo tôi, _Coder_ không giỏi như _Programmer_, vì _Programmer_ đòi hỏi ở người lập trình nhiều kỹ năng và kiến ​​thức hơn.
 
-Chưa bàn đến những thứ cao siêu như phương pháp lập luận hay hành văn, anh em có thấy câu đầu đoạn trước vừa vung tay vả thẳng mặt câu cuối đoạn sau chưa? Không dừng lại ở đó, mình sẽ đưa tiếp một ví dụ khác, lần này là bài của một trang T' ![](assets/images/shame-e1507297959839.png)
+Chưa bàn đến những thứ cao siêu như phương pháp lập luận hay hành văn, anh em có thấy câu đầu đoạn trước vừa vung tay vả thẳng mặt câu cuối đoạn sau chưa? Không dừng lại ở đó, mình sẽ đưa tiếp một ví dụ khác, lần này là bài của một trang T' ![](https://tongtunggiang.com/vi/assets/images/shame-e1507297959839.png)
 
 > 1\. Coder
 > 

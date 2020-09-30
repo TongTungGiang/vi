@@ -5,11 +5,11 @@ date: "2018-08-21"
 
 Hồi mới bắt đầu tập toẹ làm game, mình gặp một thuật ngữ mà mình thấy khá khó hiểu, đó là "Indie Game Developer". Sau này đi làm mình mới biết là cũng nhiều thanh niên không hiểu thuật ngữ này, nguồn gốc xuất phát của nó ra sao, và thế nào là một Indie Game Developer. Bài kỳ này sẽ tập trung vào thế giới  Indie xem có gì hay ho không nhé.
 
-Để hiểu rõ về thuật ngữ này, trước mắt chúng ta sẽ ngược dòng thời gian một chút - đến lúc học Lịch sử rồi. Chúng ta sẽ quay về cái thời mà game còn xuất hiện ở đủ các thể loại như băng từ, đĩa CD/DVD hay thậm chí là đĩa mềm ấy. Ngoài lề chút, không biết có bạn nào thuộc cuối 9X đầu 10X đang đọc bài này không nhỉ? Nếu các bạn không biết cái đĩa mềm trông như thế nào thì... kệ đi, nó tuyệt chủng lâu lắm rồi. ![](assets/images/burn_joss_stick-e1507298028986.png)
+Để hiểu rõ về thuật ngữ này, trước mắt chúng ta sẽ ngược dòng thời gian một chút - đến lúc học Lịch sử rồi. Chúng ta sẽ quay về cái thời mà game còn xuất hiện ở đủ các thể loại như băng từ, đĩa CD/DVD hay thậm chí là đĩa mềm ấy. Ngoài lề chút, không biết có bạn nào thuộc cuối 9X đầu 10X đang đọc bài này không nhỉ? Nếu các bạn không biết cái đĩa mềm trông như thế nào thì... kệ đi, nó tuyệt chủng lâu lắm rồi. ![](https://tongtunggiang.com/vi/assets/images/burn_joss_stick-e1507298028986.png)
 
 Từ thời đó, ngành công nghiệp game đã có 2 mảng chính, tương trợ lẫn nhau, đó là phát triển (develop) và phát hành (publish). Mình không cần nói thêm về phát triển nữa, có lẽ các bạn đều đã biết ít hay nhiều công việc nó như thế nào, thậm chí biết rằng [các công ty phát triển game bao gồm các vị trí gì](http://tongtunggiang.com/vi/2018/02/26/ky-su-lam-game-chuong-6-thuc-tap-va-nhung-bai-hoc-dau-tien/) luôn. Phần phát hành thì lại lo phần đảm bảo rằng sản phẩm game đến được tay người dùng. Mảng này có rất nhiều phần, ví dụ như sản xuất băng đĩa, rồi nghiên cứu thị trường, hay quảng bá và phân phối sản phẩm. Đại khái là nếu không có ông phát triển thì ông phát hành không có gì để bán, còn ngược lại, nếu không có ông phát hành thì ông phát triển làm xong game chẳng biết bán cho ai. Giống như nông dân và lái buôn vậy.
 
-![](assets/images/XtUA1cS.jpg)
+![](https://tongtunggiang.com/vi/assets/images/XtUA1cS.jpg)
 
 Lái buôn thì thường giàu hơn nông dân, chân lý ở đời vốn vậy. Vì thế mà rất nhiều các nhà phát hành có khả năng chi trả chi phí hoạt động cho các nhà phát triển, hoặc đôi khi là nuôi luôn một đội phát triển trong công ty cho nó máu. Cách chi trả tiền nong cũng rất đa dạng. Có lúc thì nhà phát triển sẽ được trả tiền theo cục, mỗi khi hoàn thành được một mốc nào đó mà nhà phát hành đề ra. Hoặc các nhà phát triển cố gắng làm một bản game hoàn chỉnh, rồi nhà phát hành đem đi rao bán, rồi hai bên chia lợi nhuận.
 

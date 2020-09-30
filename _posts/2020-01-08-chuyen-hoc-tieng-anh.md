@@ -25,7 +25,7 @@ Truyền hình cáp có cái kênh HBO với Star Movies, toàn phim hay. Mình 
 
 Thế là mình hì hục ngồi cắm torrent mấy bộ hay ho mà chưa xem cùng đủ bộ phụ đề tiếng Anh và tiếng Việt. Rồi mất một buổi chiều tìm cách config VLC sao cho nó hiện được cả hai phụ đề một lúc. Thế là giờ mình xem toàn phụ đề tiếng Anh, dòng nào không hiểu thì đá lên nhìn phụ đề Việt, không hiểu nữa thì quay lại xem đoạn đó (dù đôi khi lười với mải xem phim nên kệ).
 
-![](assets/images/dualsub-win10-screenshot-1.png)
+![](https://tongtunggiang.com/vi/assets/images/dualsub-win10-screenshot-1.png)
 
 Đại để là có hai phụ đề trông nó sẽ như này.
 
@@ -39,7 +39,7 @@ Trong lớp toàn các bé thi khối D hoặc các anh chị lớn tuổi vẫn
 
 Sau đấy thì mình đi học khóa ngữ pháp ở trung tâm Lê Na - đúng rồi đấy, cô giáo bò cạp =))). Giờ thì hình như trung tâm cũng sập sau vụ cung bò cạp rồi nên chắc mình không mang danh seeder đâu nhỉ?
 
-![](assets/images/12.jpg)
+![](https://tongtunggiang.com/vi/assets/images/12.jpg)
 
 Trung tâm Lê Na có một cái trò là cam kết đầu ra TOEIC/IELTS/TOEFL gì đó, nếu học viên không đạt yêu cầu thì sẽ _cho phép học lại đến khi nào đạt chỉ tiêu thì thôi._ Giờ nhiều trung tâm cũng chơi trò này lắm. Nghe tưởng ngon nhưng thực ra không ngon tí nào. Hồi sinh viên mình cũng nhẹ dạ cả tin nên cứ thế cắm đầu nôn tiền ra đi học.
 
