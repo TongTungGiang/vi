@@ -4,8 +4,9 @@
     <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>
     <ul class="navbar">
       <!-- <li><a href="https://1drv.ms/b/s!AoPu7WtK1deUgvgtSJDvnnVBv5f88w?e=HknAdn">My resume</a></li> -->
-      <li><a href="https://tongtunggiang/cv/">My resume</a></li>
-      <li><a href="https://tongtunggiang/portfolio/">My works</a></li>
+      <li><a href="{{ prepend: site.url }}">Trang tiếng Anh/a></li>
+      <li><a href="{{ '/cv' | prepend: site.url }}">CV</a></li>
+      <li><a href="{{ '/portfolio' | prepend: site.url }}">Dự án</a></li>
       <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li>
     </ul>
   </div>
